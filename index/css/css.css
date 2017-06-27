@@ -5,7 +5,7 @@ body{background-color: #efefef;}
   width: 600px;
   height: 200px;
   top: 120px;
-  zoom: 1.5;
+  zoom: 1.5;-----------------------这里不太妙
 }
 
 .demo-music .music {
